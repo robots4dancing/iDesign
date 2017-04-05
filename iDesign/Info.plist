@@ -41,5 +41,10 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>UIAppFonts</key>
+	<array>
+		<string>CaviarDreams.ttf</string>
+		<string>Caviar_Dreams_Bold.ttf</string>
+	</array>
 </dict>
 </plist>
